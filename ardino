@@ -1,0 +1,13 @@
+jarvis_ai/
+├── main.py
+├── config.py
+├── requirements.txt
+├── assistant/
+│   ├── __init__.py
+│   ├── voice.py
+│   ├── commands.py
+│   ├── chatgpt.py
+│   ├── emailer.py
+│   └── weather.py
+└── gui.py (optional)
+
