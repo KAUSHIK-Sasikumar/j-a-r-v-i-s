@@ -1,0 +1,8 @@
+pip install -r requirements.txt
+pyttsx3
+speechrecognition
+pyaudio
+wikipedia
+openai
+requests
+tk
